@@ -1,0 +1,2 @@
+# gotable
+table in golang
